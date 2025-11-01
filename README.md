@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Aasim Nadaf</h1>
 
 <h3 align="center">From Concept to Code to Customer — I Don't Just Write Code, I Build Solutions</h3>
-<h4 align="center">Co-Founder @ Technoledge Unlimited | Full Stack Developer | I Fly Solo 🚀</h4>
+<h4 align="center">Co-Founder @ Technoledge Unlimited | Full Stack Developer | I FLY SOLO 🚀</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aasim-nadaf&label=Profile%20views&color=0e75b6&style=flat" alt="aasim-nadaf" />
@@ -17,11 +17,11 @@ I'm a **Full Stack Developer** and **Co-Founder of Technoledge Unlimited** (MSME
 
 - 🔭 **Currently working on:** [Jotly - Google Docs Clone](https://github.com/Aasim-Nadaf) using Next.js & Tiptap Editor
 - 💼 **Professional Experience:** 1 year at Miracle Infotech + Freelance Projects
-- 🎯 **I Fly Solo:** Building complete products independently from design to deployment
+- 🎯 **I FLY SOLO:** Building complete products independently from design to deployment
 - 🌱 **Always Learning:** Exploring advanced patterns in Next.js, React Native & system design
 - 💡 **My Motto:** *"Ain't no thing like me except me"*
 - 📫 **Reach me:** nadafaasim@gmail.com
-- ⚡ **Fun Fact:** When I'm not coding, I'm dominating in Valorant, CS2, or crushing RPGs like Red Dead Redemption 2
+⚡ **Fun Fact:** By day, I build apps. By night, I dominate Valorant lobbies, drop headshots in CS2, and ride through the Wild West in RDR2 — the greatest game ever made 🐐🎮
 
 ---
 
