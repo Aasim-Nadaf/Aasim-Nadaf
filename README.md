@@ -127,8 +127,8 @@ I'm a **Full Stack Developer** and **Co-Founder of Technoledge Unlimited** (MSME
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aasim-nadaf&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasim-nadaf&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aasim-nadaf&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=aasim-nadaf&theme=radical&hide_border=false" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
@@ -212,7 +212,7 @@ I'm currently **open to new opportunities** in:
 
 📧 **Email:** nadafaasim@gmail.com  
 🔗 **Portfolio:** [Coming Soon]  
-💼 **LinkedIn:** [linkedin.com/in/aasim-nadaf]
+💼 **LinkedIn:** [[linkedin.com/in/aasim-nadaf]](https://www.linkedin.com/in/aasim-nadaf/)
 
 ---
 
