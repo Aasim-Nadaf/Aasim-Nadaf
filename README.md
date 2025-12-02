@@ -21,7 +21,7 @@ I'm a **Full Stack Developer** and **Co-Founder of Technoledge Unlimited** (MSME
 - 🌱 **Always Learning:** Exploring advanced patterns in Next.js, React Native & system design
 - 💡 **My Motto:** *"Ain't no thing like me except me"*
 - 📫 **Reach me:** nadafaasim@gmail.com
-⚡ **Fun Fact:** By day, I build apps. By night, I dominate Valorant lobbies, drop headshots in CS2, and ride through the Wild West in RDR2 — the greatest game ever made 🐐🎮
+⚡ **Fun Fact:** By day, I build apps. By night, I dominate Valorant lobbies, drop headshots in CS2, and ride through the Wild West in Red Dead Redemption 2 — the greatest game ever made 🐐🎮
 
 ---
 
