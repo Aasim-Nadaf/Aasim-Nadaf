@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aasim-nadaf&label=PROFILE+VIEWS&color=ffffff&style=for-the-badge&labelColor=0d0d0d"/>
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-2018-ffffff?style=for-the-badge&labelColor=000000"/>
   <img src="https://img.shields.io/github/followers/aasim-nadaf?label=FOLLOWERS&style=for-the-badge&color=ffffff&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-ffffff?style=for-the-badge&labelColor=0d0d0d"/>
   <img src="https://img.shields.io/badge/LOCATION-MAHARASHTRA%20🇮🇳-ffffff?style=for-the-badge&labelColor=0d0d0d"/>
