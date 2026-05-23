@@ -58,40 +58,95 @@
  * @version  2026.CURRENT
  * @license  Build Fast. Ship Hard. Own It.
  */
-
 const AASIM_NADAF = {
-
   // ── Identity ──────────────────────────
   name        : "Aasim Nadaf",
   alias       : "The Solo Builder 🚀",
   height      : "6'1\" — Built Different 💪",
-
+  status      : "🟢 Online — Probably building something at 2AM",
   // ── Professional ──────────────────────
   role        : "Full Stack Developer",
   company     : "Technoledge Unlimited (MSME)",
   position    : "Co-Founder & Lead Developer",
   education   : "MCA @ Rajarambapu Inst. of Tech.",
   experience  : "1yr @ Miracle Infotech + Freelance",
-
+  // ── Stack ─────────────────────────────
+  stack: {
+    frontend  : ["React", "Next.js", "Tailwind", "shadcn/ui"],
+    backend   : ["Python", "FastAPI", "Node.js"],
+    database  : ["MongoDB", "PostgreSQL"],
+    mobile    : ["React Native (Expo)"],
+    devops    : ["Docker", "Jenkins", "Git"],
+    ai        : ["Gemini API", "Claude API"],
+  },
   // ── Core Philosophy ───────────────────
   superpower  : "Design → Build → Deploy → SOLO",
   motto       : "Ain't no thing like me, except me.",
   approach    : "I don't just write code. I build solutions.",
-
+  creed       : "I FLY SOLO. ✈️",
+  identity    : "Gentleman 🎩. Jack of All Trades. Master of Everything. 🎩",
+  rules: [
+    "No tutorials. Read the docs.",
+    "If it ships, it counts.",
+    "Design first. Code second. Sleep optional.",
+  ],
   // ── Currently ─────────────────────────
-  building    : "Jotly — Real-time Collaborative Docs",
+  building    : "[CLASSIFIED] 🔒 — Dropping Soon™",
   learning    : ["Advanced Next.js", "System Design", "Microservices Architecture"],
   exploring   : "AI integration in full-stack apps",
-
   // ── Off The Clock ─────────────────────
+  sports      : [
+    "Basketball 🏀",
+    "Football ⚽",
+    "Cricket 🏏",
+    "Boxing 🥊",
+    "Volleyball 🏐",
+    "Badminton 🏸",
+  ],
+  boardGames  : [
+    "Chess ♟️ — Think 10 moves ahead",
+    "Carrom 🎯",
+    "Scrabble 🔤",
+  ],
   gaming: {
-    fps     : "Valorant 🎯 + CS2 💣",
-    rpg     : "Red Dead Redemption 2 🐎 (GOAT)",
-    ranking : "Top frag or log out 😤",
+    // ── Competitive / FPS ──────────────
+    competitive : [
+      "Valorant 🎯",
+      "CS2 💣",
+      "The Finals 💥",
+      "CoD Warzone 🪂",
+      "CoD Modern Warfare 🔫",
+      "Fortnite 🏗️",
+    ],
+    aimTraining : ["Aim Labs ⚡", "KovaaKs 🎯"],
+
+    // ── Action / Adventure ─────────────
+    action      : [
+      "Assassin's Creed (Origins → Odyssey → Valhalla → Mirage) 🗡️",
+      "God of War I → Ragnarök ⚔️",
+      "Uncharted 1 → 4 + Lost Legacy 🗺️",
+      "GTA III → San Andreas → IV → V 🚗",
+      "Max Payne 1 → 3 🕶️",
+      "Tomb Raider (Classic + Reboot Trilogy) 🏹",
+      "Castlevania: Symphony of the Night + LoS 🧛",
+    ],
+
+    // ── Horror ─────────────────────────
+    horror      : ["Outlast 😱", "Outlast 2 😰"],
+
+    // ── RPG / Open World ───────────────
+    rpg         : [
+      "Red Dead Redemption 2 🐎 (GOAT — non-negotiable)",
+      "The Witcher 3: Wild Hunt 🐺",
+      "Dark Souls III / Elden Ring 🔥",
+      "Cyberpunk 2077 🌆",
+    ],
+
+    // ── Stats ──────────────────────────
+    ranking     : "Top frag or log out 😤",
+    hoursLost   : "Uncountable. Zero regrets.",
   },
-
   funFact     : "Strong as an OX. Ships faster than teams.",
-
 } as const;
 
 export default AASIM_NADAF;
