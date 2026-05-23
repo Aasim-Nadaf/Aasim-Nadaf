@@ -624,7 +624,7 @@ Scope     : Frontend Solo Delivery
 
 <br/>
 
-**📧 nadafaasim@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 Portfolio — Coming Soon &nbsp;&nbsp;|&nbsp;&nbsp; 💼 [linkedin.com/in/aasim-nadaf](https://www.linkedin.com/in/aasim-nadaf/)**
+**📧 nadafaasim@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [aasim.is-a.dev](https://aasim.is-a.dev/) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 [linkedin.com/in/aasim-nadaf](https://www.linkedin.com/in/aasim-nadaf/)**
 
 </div>
 
