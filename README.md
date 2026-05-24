@@ -72,7 +72,7 @@ const AASIM_NADAF = {
   experience  : "1yr @ Miracle Infotech + Freelance",
   // ── Stack ─────────────────────────────
   stack: {
-    frontend  : ["React", "Next.js", "Tailwind", "shadcn/ui"],
+    frontend  : ["React", "Next.js", "Tailwind"],
     backend   : ["Python", "FastAPI", "Node.js"],
     database  : ["MongoDB", "PostgreSQL"],
     mobile    : ["React Native (Expo)"],
